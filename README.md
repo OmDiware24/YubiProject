@@ -32,9 +32,8 @@ python inference.py --checkpoint_path checkpoints/wav2lip_gan.pth --face image.j
 🎬 The final lip-sync video will be saved in the output folder.
 
 📜 Project Links
-📂 GitHub Repo: [Your Repo Link]
-🎬 Lip-Sync Video: [Google Drive Link]
-📄 Colab Notebook: [Colab Link]
+
+📄 Colab Notebook: [https://colab.research.google.com/drive/1m-U0WVgNGo8_diizpUy7xYfq5PtD5uy_?usp=sharing]
 
 🛠️ Tools & Technologies Used
 Python 🐍
